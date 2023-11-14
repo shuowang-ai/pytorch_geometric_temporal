@@ -130,3 +130,7 @@ dmypy.json
 
 # vs code
 .vscode/
+
+
+*.gpu-server
+/notebooks/data/
